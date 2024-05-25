@@ -6,5 +6,10 @@ please click on the links below to learn more .
 [Learn more about it](azure_vm/README.md)
 
 
+## worked with azure virtual network and setup firewall to ask a specific server.
+[Learn more about it](azure_virtual_networks/README.md)
+
+
+
 
 
