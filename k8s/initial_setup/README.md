@@ -85,6 +85,12 @@ We get something like this.
 
 ![atimg](./img8.png)
 
+IN similar way I deployed my custom website.
 
+![](./img10.png)
+
+![img11](./img11.png)
+
+![img12](./img12.png)
 
 
