@@ -9,6 +9,16 @@ please click on the links below to learn more .
 ## worked with azure virtual network and setup firewall to ask a specific server.
 [Learn more about it](azure_virtual_networks/README.md)
 
+# Jenkins 
+## Install jenkins on azure vm 
+[Learn more about it](Jenkins_project/README.md)
+
+
+# K8s
+## Introduction to k8s and basic setup
+[Learn more about it](k8s/initial_setup/README.md)
+
+
 
 
 

@@ -57,3 +57,34 @@ minikube service hello-kube
 Open your browser you should see something like this.
 
 ![alt-image](./img7.png)
+
+
+In our local setup, minikube is a single node Kubernetes cluster. So instead of having multiple servers like in the diagram above, minikube has only one that acts as both the main server and the node.
+
+We can run any valid container image inside a pod. The fhsinchy/hello-kube Docker image contains a very simple JavaScript application that runs on port 80 inside the container. The --port=80 option allows the pod to expose port 80 from inside the container
+
+Now Let's get rid of the kubernetes resources :
+
+```
+kubectl delete <resource type> <resource name>
+```
+
+To delete a pod named hello-kube the command will be as follows:
+
+```
+kubectl delete pod hello-kube
+```
+
+And to delete the service named hello-kube
+
+```
+kubectl delete service hello-kube
+```
+After deleting the resources .
+We get something like this.
+
+![atimg](./img8.png)
+
+
+
+
