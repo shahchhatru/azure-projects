@@ -85,9 +85,9 @@ We get something like this.
 
 ![atimg](./img8.png)
 
-IN similar way I deployed my custom website.
+IN similar way I deployed my custom website. I had push all the dependencies required and steps to build site as a docker image in the docker hub which I downloaded and ran in the k8s cluster.
 
-![](./img10.png)
+![img10](./img10.png)
 
 ![img11](./img11.png)
 
