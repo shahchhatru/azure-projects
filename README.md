@@ -18,6 +18,9 @@ please click on the links below to learn more .
 ## Introduction to k8s and basic setup
 [Learn more about it](k8s/initial_setup/README.md)
 
+## setting up a mongo-express CRUD app using configuration yaml files
+[Learn more about it](https://github.com/shahchhatru/k8s-mongo-express-app)
+
 
 
 
